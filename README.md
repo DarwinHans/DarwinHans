@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Darwin Hans
 
-🎓 Industrial Engineer | 📊 Data Analyst | 🤖 AI & Automation Enthusiast
+🎓 Industrial Engineer  | 🤖 AI & Automation Enthusiast
 
 I'm building data-driven solutions and digital products from scratch—bridging technology, automation, and business.
 
 ## 🚀 Projects in Progress
 
 - 🧠 **AI Agency**  
-  Building smart workflows and solutions using Python, SQL, n8n, and data analytics to automate repetitive tasks and improve decision-making.
+  Building smart workflows and solutions using Python, SQL, n8n, and data analytics to automate repetitive tasks and improve decision-making. [Nbow](https://nbow.io/)
 
 - 🛍️ **Dropshipping Store**  
   E-commerce automation with n8n, Shopify integration, product optimization, and SEO strategy.
@@ -18,9 +18,9 @@ I'm building data-driven solutions and digital products from scratch—bridging 
 ## 🛠️ Tech Stack & Tools
 
 - Languages: Python, SQL, Markdown
-- Tools: Power BI, n8n, Zapier, Git, GitHub
+- Tools: SQL, n8n, Git, GitHub, Claude Code
 - Automation: APIs, Webhooks, Low-code tools
-- Platforms: Shopify, Google Sheets, Excel (Advanced)
+- Platforms: Shopify, Google Workspace, VSCode.
 
 ## 📂 Featured Repositories
 
