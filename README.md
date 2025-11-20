@@ -33,4 +33,4 @@ I'm building data-driven solutions and digital products from scratch—bridging 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/darwin-nahuelpan-habert-00a86aa8/)  
 📩 ai.nbow.d@gmail.com  
-🌍 [www.nbow.com](https://nbow.io/)
+🌍 [www.nbow.io](https://nbow.io/)
