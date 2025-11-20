@@ -32,5 +32,5 @@ I'm building data-driven solutions and digital products from scratch—bridging 
 ## 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/darwin-nahuelpan-habert-00a86aa8/)  
-📩 epicflowworld@gmail.com  
-🌍 [www.epicflowworld.com](https://www.epicflowworld.com)
+📩 ai.nbow.d@gmail.com  
+🌍 [www.nbow.com](https://nbow.io/)
