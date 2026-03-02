@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Darwin Hans
+#  Hi, I'm Darwin Hans
 
-🎓 Industrial Engineer  
+Industrial Civil Engineer  
 📊 Data Analytics & Workflow Automation  
 🤖 Building AI-powered operational systems  
 
@@ -10,9 +10,9 @@ With a background in industrial engineering and operations, I combine business s
 
 ---
 
-## 🚀 Core Areas
+## Core Areas
 
-### 🤖 AI & Workflow Automation
+###  AI & Workflow Automation
 Designing and deploying automation systems using n8n, APIs, and AI integrations.
 
 - AI-powered agents (OpenAI + Telegram + Google Calendar)
@@ -25,7 +25,7 @@ Designing and deploying automation systems using n8n, APIs, and AI integrations.
 
 ---
 
-### 📊 Data & Analytics
+###  Data & Analytics
 Building practical analytics foundations and applying them to real systems.
 
 - SQL-based data modeling
@@ -37,7 +37,7 @@ Building practical analytics foundations and applying them to real systems.
 
 ---
 
-### 🧠 Systems Thinking & Personal Performance
+###  Systems Thinking & Personal Performance
 Founder of **EpicFlowWorld**, a long-term blog project focused on mindset, sports discipline, and productivity systems.
 
 - SEO-focused content strategy
@@ -78,7 +78,7 @@ Founder of **EpicFlowWorld**, a long-term blog project focused on mindset, sport
 
 ## 📂 Featured Repositories
 
-### 🤖 AI Workflows (n8n + Python)
+###  AI Workflows (n8n + Python)
 Automation systems integrating Telegram, OpenAI, Google Sheets and Google Calendar.  
 Production-oriented workflow structures for real use cases.
 
