@@ -1,36 +1,126 @@
-# 👋 Hi there! I'm Darwin Hans
+# 👋 Hi, I'm Darwin Hans
 
-🎓 Industrial Engineer  | 🤖 AI & Automation Enthusiast
+🎓 Industrial Engineer  
+📊 Data Analytics & Workflow Automation  
+🤖 Building AI-powered operational systems  
 
-I'm building data-driven solutions and digital products from scratch—bridging technology, automation, and business.
+I design and build automation systems that reduce manual work, improve operational efficiency, and support data-driven decision-making.
 
-## 🚀 Projects in Progress
+With a background in industrial engineering and operations, I combine business strategy, analytics, and AI tools to create scalable digital solutions.
 
-- 🧠 **AI Agency**  
-  Building smart workflows and solutions using Python, SQL, n8n, and data analytics to automate repetitive tasks and improve decision-making. [Nbow](https://nbow.io/)
+---
 
-- 🛍️ **Dropshipping Store**  
-  E-commerce automation with n8n, Shopify integration, product optimization, and SEO strategy.
+## 🚀 Core Areas
 
-- 🧮 **Data Science Learning Path**  
-  Currently taking the *Scientific Computing with Python* course from [freeCodeCamp](https://www.freecodecamp.org/learn/).
+### 🤖 AI & Workflow Automation
+Designing and deploying automation systems using n8n, APIs, and AI integrations.
 
-## 🛠️ Tech Stack & Tools
+- AI-powered agents (OpenAI + Telegram + Google Calendar)
+- Lead capture & CRM automation
+- Document processing workflows
+- Google Sheets reporting systems
+- Self-hosted n8n environments (VPS)
 
-- Languages: Python, SQL, Markdown
-- Tools: SQL, n8n, Git, GitHub, Claude Code
-- Automation: APIs, Webhooks, Low-code tools
-- Platforms: Shopify, Google Workspace, VSCode.
+🌍 https://nbow.io/
+
+---
+
+### 📊 Data & Analytics
+Building practical analytics foundations and applying them to real systems.
+
+- SQL-based data modeling
+- Python for data analysis
+- Business-oriented dashboards
+- Operational KPI structuring
+
+📘 Currently completing: Scientific Computing with Python (freeCodeCamp)
+
+---
+
+### 🧠 Systems Thinking & Personal Performance
+Founder of **EpicFlowWorld**, a long-term blog project focused on mindset, sports discipline, and productivity systems.
+
+- SEO-focused content strategy
+- Structured thinking frameworks
+- Performance experimentation
+- Long-term digital brand building
+
+🌍 https://epicflowworld.com/
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+- Markdown
+
+### Automation & Integration
+- n8n (Cloud & Self-hosted)
+- REST APIs
+- Webhooks
+- OpenAI API
+
+### Data & BI
+- Power BI
+- Google Sheets Automation
+- SQL 
+
+### Tools & Platforms
+- Git & GitHub
+- VSCode
+- Shopify
+- Google Workspace
+- Claude Code
+
+---
 
 ## 📂 Featured Repositories
 
-- [📘 Scientific Computing Course](https://github.com/DarwinHans/scientific-computing-python)
-- [🤖 AI Workflows (n8n + Python)](https://github.com/DarwinHans/ai-agency-workflows)
-- [🛍️ Dropshipping Automation](https://github.com/DarwinHans/dropshipping-automation)
-- [🔁 n8n Workflow Library](https://github.com/DarwinHans/n8n-workflows)
+### 🤖 AI Workflows (n8n + Python)
+Automation systems integrating Telegram, OpenAI, Google Sheets and Google Calendar.  
+Production-oriented workflow structures for real use cases.
 
-## 🌐 Let’s Connect
+🔗 https://github.com/DarwinHans/ai-agency-workflows
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/darwin-nahuelpan-habert-00a86aa8/)  
+---
+
+### 🔁 n8n Workflow Library
+Reusable workflow templates for automation and AI integrations.
+
+🔗 https://github.com/DarwinHans/n8n-workflows
+
+---
+
+### 📘 Scientific Computing with Python
+Exercises and structured learning path in Python fundamentals for data science.
+
+🔗 https://github.com/DarwinHans/scientific-computing-python
+
+---
+
+### 🛍️ Dropshipping Automation
+Operational backend automation systems for e-commerce environments.
+
+🔗 https://github.com/DarwinHans/dropshipping-automation
+
+---
+
+## 🎯 Current Focus
+
+- Developing production-ready AI agents
+- Strengthening Python for analytics
+- Building scalable automation systems
+- Positioning for Data Analyst / BI roles
+
+---
+
+## 🌐 Connect
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/darwin-nahuelpan-habert-00a86aa8/
+
 📩 ai.nbow.d@gmail.com  
-🌍 [www.nbow.io](https://nbow.io/)
+
+🌍 https://nbow.io/
