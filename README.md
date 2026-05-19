@@ -119,7 +119,7 @@ Operational backend automation systems for e-commerce environments.
 ## 🌐 Connect
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/darwin-nahuelpan-habert-00a86aa8/
+https://www.linkedin.com/in/darwinhans/
 
 📩 ai.nbow.d@gmail.com  
 
